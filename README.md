@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sk1ddie aka Nabeela
+- 😺 Hi, I’m @sk1ddie aka Nabeela
 - 👀 I’m interested in Application Security, more prominently Mobile Security
 - 🌱 I’m currently learning Cloud Security and DevSecops
 - 📫 How to reach me ... 
